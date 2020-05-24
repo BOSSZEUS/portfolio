@@ -8751,3 +8751,24 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+.footerStyle{
+    padding-bottom: 1px;
+    padding-top: 0px;
+}
+
+.footerAlign{
+  text-align: -webkit-center;
+}
+
+.contactAlign {
+  padding-top: 30px;
+  margin-bottom: 20px  !important;
+}
+
+.liStyleAlign{
+  margin-bottom: 5px;
+  padding-right: 20px;
+}
