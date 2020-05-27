@@ -8772,3 +8772,13 @@ textarea.form-control {
   margin-bottom: 5px;
   padding-right: 20px;
 }
+
+.mytitle{
+color: black;
+font-weight: bolder;
+text-decoration: underline;
+}
+.mystyle{
+ font-size: larger; 
+ color: black;
+}
